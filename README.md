@@ -1,2 +1,2 @@
-# manipulaci-n-dom-basica
+# manipulacion-dom-basica
 Esto fue aprendido en Platzi
